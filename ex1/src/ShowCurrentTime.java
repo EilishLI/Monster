@@ -1,4 +1,4 @@
-package ex1;
+package src;
 
 public class ShowCurrentTime {
 	public static void main (String[] args) {
